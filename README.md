@@ -6,8 +6,6 @@
 
 Play a game of hangman with a few customisable settings such as:
 
-.
-
 1. **Topic**: which includes *animals*, *countries* and *cities*.
 2. **Level**: for certain topics, namely *cities*
 3. **Lives**: 10, 7, or 5 wrong guesses
@@ -270,8 +268,6 @@ Returns the round's score after going through the playing sequence until the rou
 
 Playing sequence:
 
-.
-
 1. Display round information
 2. Get guess from user
 3. Check and record user's guess
@@ -284,8 +280,6 @@ Playing sequence:
 Returns an empty string and records the user's guess if the guess is valid or returns an error message if the guess is invalid.
 
 A guess is considered invalid if:
-
-.
 
 1. It has been guessed previously
 2. It contains multiple characters
