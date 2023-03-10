@@ -1,0 +1,2148 @@
+<tr>
+<th colspan="7"><span class="anchor" id="A"></span><b>A</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Aardvark" title="Aardvark">Aardvark</a></td>
+<td>cub</td>
+<td>sow</td>
+<td>boar</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>orycteropodian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Albatross" title="Albatross">Albatross</a></td>
+<td>chick</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>flock<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><br />gam (when searching for mates)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><br />rookery<sup id="cite_ref-sparkes_10-0" class="reference"><a href="#cite_note-sparkes-10">&#91;10&#93;</a></sup></td>
+<td>diomedeid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Alligator" title="Alligator">Alligator</a></td>
+<td>hatchling</td>
+<td>cow</td>
+<td>bull</td>
+<td>congregation<sup id="cite_ref-sdzoo_11-0" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>eusuchian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Alpaca" title="Alpaca">Alpaca</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></td>
+<td>cria</td>
+<td>hembra</td>
+<td>macho</td>
+<td>herd</td>
+<td>camelid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ant" title="Ant">Ant</a></td>
+<td>larva<br />pupa</td>
+<td>queen (fertile)<br />soldier<br />worker</td>
+<td>drone</td>
+<td>army<sup id="cite_ref-askoxford-a_13-0" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><br />bike<sup id="cite_ref-askoxford-a_13-1" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><br />colony<sup id="cite_ref-askoxford-a_13-2" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-usgs_14-0" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />nest<sup id="cite_ref-sdzoo_11-1" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br /><a href="/wiki/Swarm" class="mw-redirect" title="Swarm">swarm</a><sup id="cite_ref-askoxford-a_13-3" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup></td>
+<td>formic<br />myrmicine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Anteater" title="Anteater">Anteater</a></td>
+<td>pup</td>
+<td>sow</td>
+<td>boar</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>vermilinguan</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Antelope" title="Antelope">Antelope</a></td>
+<td>calf<sup id="cite_ref-geist_15-0" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>doe</td>
+<td>buck</td>
+<td>cluster<sup id="cite_ref-askoxford-a_13-4" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-0" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-askoxford-a_13-5" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-1" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><br />tribe<sup id="cite_ref-askoxford-a_13-6" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-2" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup></td>
+<td>alcelaphine<br />antilopine<br />bubaline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ape" title="Ape">Ape</a></td>
+<td>baby<br />child<br />infant</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>band<br />family<br />group<br />shrewdness<sup id="cite_ref-oxfordfaq_2-1" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-2" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-Carnaby_16-3" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><sup id="cite_ref-albans_17-0" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup><br />troop, group<sup id="cite_ref-sdzoo_11-3" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-a_13-7" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-4" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup></td>
+<td>simian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Armadillo" title="Armadillo">Armadillo</a></td>
+<td>baby<br />pup</td>
+<td>sow</td>
+<td>boar</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>cingulatan</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Donkey" title="Donkey">Ass/donkey</a></td>
+<td>foal</td>
+<td><a href="/wiki/Jenny_(donkey)" class="mw-redirect" title="Jenny (donkey)">jenny</a></td>
+<td>jack</td>
+<td>coffle<sup id="cite_ref-askoxford-a_13-8" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-5" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><br />drove<sup id="cite_ref-sdzoo_11-4" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-a_13-9" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-Carnaby_16-6" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-askoxford-a_13-10" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><br />pace<sup id="cite_ref-askoxford-a_13-11" class="reference"><a href="#cite_note-askoxford-a-13">&#91;13&#93;</a></sup><sup id="cite_ref-usgs_14-1" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-Carnaby_16-7" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup></td>
+<td>asinine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="B"></span><b>B</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Baboon" title="Baboon">Baboon</a></td>
+<td>infant</td>
+<td>babuina<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flange<sup id="cite_ref-askoxford-b_19-0" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;a&#93;</a></sup><br />troop, group<sup id="cite_ref-oxfordfaq_2-2" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-5" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-b_19-1" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Badger" title="Badger">Badger</a></td>
+<td>cub<br />kit</td>
+<td>sow</td>
+<td>boar</td>
+<td>cete<sup id="cite_ref-oxfordfaq_2-3" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-6" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-2" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-2" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />colony<sup id="cite_ref-askoxford-b_19-3" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup></td>
+<td>musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Barracuda" title="Barracuda">Barracuda</a></td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>school<sup id="cite_ref-Thomson00_21-0" class="reference"><a href="#cite_note-Thomson00-21">&#91;20&#93;</a></sup></td>
+<td>percesocine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bat" title="Bat">Bat</a></td>
+<td>pup</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>camp<sup id="cite_ref-yourdict_22-0" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />cloud<sup id="cite_ref-askoxford-b_19-4" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><sup id="cite_ref-Campbell02_23-0" class="reference"><a href="#cite_note-Campbell02-23">&#91;22&#93;</a></sup><br />colony<sup id="cite_ref-usgs_14-3" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-5" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />flock<sup id="cite_ref-durio_24-0" class="reference"><a href="#cite_note-durio-24">&#91;23&#93;</a></sup></td>
+<td>noctillionine<br />pteropine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bear" title="Bear">Bear</a> <i>(<a href="/wiki/List_of_bears" class="mw-redirect" title="List of bears">list</a>)</i></td>
+<td><a href="/wiki/Bear" title="Bear">cub</a><sup id="cite_ref-cub_25-0" class="reference"><a href="#cite_note-cub-25">&#91;24&#93;</a></sup></td>
+<td>she-bear<br />sow</td>
+<td>boar</td>
+<td>sleuth<sup id="cite_ref-sdzoo_11-7" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-4" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-6" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />sloth<sup id="cite_ref-sdzoo_11-8" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-5" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-7" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup></td>
+<td>ursine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Beaver" title="Beaver">Beaver</a></td>
+<td>kit<br />kitten<br />pup</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>buck</td>
+<td>colony<sup id="cite_ref-sdzoo_11-9" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-b_19-8" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />family<sup id="cite_ref-sdzoo_11-10" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>castoridine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bee" title="Bee">Bee</a></td>
+<td>larva<br />pupa</td>
+<td>queen<br />worker<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;b&#93;</a></sup></td>
+<td>drone</td>
+<td>cast (a second swarm)<sup id="cite_ref-askoxford-b_19-9" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />cluster (of workers around the queen)<sup id="cite_ref-askoxford-b_19-10" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />colony<sup id="cite_ref-askoxford-b_19-11" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />drift<sup id="cite_ref-oxfordfaq_2-4" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-b_19-12" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />erst<sup id="cite_ref-oxfordfaq_2-5" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-b_19-13" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />grist<sup id="cite_ref-sdzoo_11-11" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-b_19-14" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />hive<sup id="cite_ref-oxfordfaq_2-6" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-12" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-b_19-15" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />nest<sup id="cite_ref-sdzoo_11-13" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />rabble<sup id="cite_ref-askoxford-b_19-16" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />stand<sup id="cite_ref-askoxford-b_19-17" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br /><a href="/wiki/Swarm" class="mw-redirect" title="Swarm">swarm</a><sup id="cite_ref-oxfordfaq_2-7" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-14" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-b_19-18" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup></td>
+<td>apian<br />apiarian<br />apic</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Beetle" title="Beetle">Beetle</a></td>
+<td>larva<br />grub (wormlike forms)<sup id="cite_ref-dictcom_3-1" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup><sup id="cite_ref-merriamweb_4-1" class="reference"><a href="#cite_note-merriamweb-4">&#91;4&#93;</a></sup><br />mealworm (<a href="/wiki/Darkling_beetle" title="Darkling beetle">darkling beetles</a>)<sup id="cite_ref-dictcom_3-2" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup><sup id="cite_ref-merriamweb_4-2" class="reference"><a href="#cite_note-merriamweb-4">&#91;4&#93;</a></sup><br />pupa</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>swarm<sup id="cite_ref-dictcom_3-3" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup></td>
+<td>coleopterous</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Binturong" title="Binturong">Binturong</a></td>
+<td>binlet</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>potosine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bird" title="Bird">Bird</a> <i>(<a href="/wiki/List_of_birds" title="List of birds">list</a>)</i><br /><i>Also see</i> Aves</td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>flight<sup id="cite_ref-oxfordfaq_2-8" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />flock<sup id="cite_ref-oxfordfaq_2-9" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />pod<sup id="cite_ref-oxfordfaq_2-10" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td>avian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wild_boar" title="Wild boar">Boar</a>/wild pig<br /><i>Also see</i> Pig</td>
+<td>farrow<br />piglet<br />shoat/shote (just weaned)</td>
+<td>sow</td>
+<td>boar<br />hog</td>
+<td>herd<sup id="cite_ref-askoxford-b_19-19" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><sup id="cite_ref-boardreh_27-0" class="reference"><a href="#cite_note-boardreh-27">&#91;25&#93;</a></sup><br />singular<sup id="cite_ref-sdzoo_11-15" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-boardreh_27-1" class="reference"><a href="#cite_note-boardreh-27">&#91;25&#93;</a></sup><br />sounder (groups of 12 or more)<sup id="cite_ref-sdzoo_11-16" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-boardreh_27-2" class="reference"><a href="#cite_note-boardreh-27">&#91;25&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bobcat" title="Bobcat">Bobcat</a></td>
+<td>bobkitten</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>feline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Budgerigar" title="Budgerigar">Budgerigar</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flock</td>
+<td>psittacine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bubalina" title="Bubalina">Buffalo</a></td>
+<td>calf</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>bubaline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bull" title="Bull">Bull</a> <br /><i>See</i> Cattle</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Butterfly" title="Butterfly">Butterfly</a></td>
+<td>caterpillar<br />chrysalis<br />larva<br />pupa</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flight<sup id="cite_ref-askoxford-b_19-20" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />flutter<sup id="cite_ref-sdzoo_11-17" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;26&#93;</a></sup><br />kaleidoscope<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;27&#93;</a></sup><br />rabble<sup id="cite_ref-askoxford-b_19-21" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />swarm<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;28&#93;</a></sup></td>
+<td>rhopaloceran<br /></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="C"></span><b>C</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Camel" title="Camel">Camel</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>caravan<sup id="cite_ref-sdzoo_11-18" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br /><a href="/wiki/Flocking_(behaviour)" class="mw-redirect" title="Flocking (behaviour)">flock</a><sup id="cite_ref-sdzoo_11-19" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />herd<br />train<sup id="cite_ref-sdzoo_11-20" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>camelid<br />cameline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Capybara" title="Capybara">Capybara</a></td>
+<td>pup</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cat" title="Cat">Cat</a> <i>(<a href="/wiki/List_of_cat_breeds" title="List of cat breeds">list</a>)</i></td>
+<td><a href="/wiki/Kitten" title="Kitten">kit</a><br /><a href="/wiki/Kitten" title="Kitten">kitten</a></td>
+<td>molly<br />pussy<br />queen</td>
+<td>gib (castrated male)<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;29&#93;</a></sup><br />king<br />tom</td>
+<td>clowder<sup id="cite_ref-oxfordfaq_2-11" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-21" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />cluster<sup id="cite_ref-sdzoo_11-22" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />clutter<sup id="cite_ref-askoxford-c_32-0" class="reference"><a href="#cite_note-askoxford-c-32">&#91;30&#93;</a></sup><br />glaring<sup id="cite_ref-oxfordfaq_2-12" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-23" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />kindle (kittens)<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;31&#93;</a></sup><br />litter (kittens)<br />pillow (kittens)<br />pounce<sup id="cite_ref-sdzoo_11-24" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />nuisance<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;32&#93;</a></sup></td>
+<td>feline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cattle" title="Cattle">Cattle</a><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;c&#93;</a></sup> <i>(<a href="/wiki/List_of_cattle_breeds" title="List of cattle breeds">list</a>)</i></td>
+<td><a href="/wiki/Calf_(animal)" title="Calf (animal)">calf</a><sup id="cite_ref-calf_36-0" class="reference"><a href="#cite_note-calf-36">&#91;33&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-cow_37-0" class="reference"><a href="#cite_note-cow-37">&#91;34&#93;</a></sup><br />heifer<br /><a href="/wiki/Freemartin" title="Freemartin">freemartin</a></td>
+<td><a href="/wiki/Bull" title="Bull">bull</a><br />bullock<br /><a href="/wiki/Ox" title="Ox">ox</a><br />steer</td>
+<td>drove<sup id="cite_ref-sdzoo_11-25" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />gang<sup id="cite_ref-sdzoo_11-26" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-6" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-22" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-sdzoo_11-27" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-7" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-23" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />obstinancy<sup id="cite_ref-sdzoo_11-28" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-8" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-b_19-24" class="reference"><a href="#cite_note-askoxford-b-19">&#91;19&#93;</a></sup><br />team (oxen)<br />troop<sup id="cite_ref-sdzoo_11-29" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />yoke (oxen)</td>
+<td>bovine<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;d&#93;</a></sup><br />taurine (male)<br />vaccine (female)<br />vituline (young)</td>
+<td><a href="/wiki/Beef" title="Beef">beef</a><br /><a href="/wiki/Veal" title="Veal">veal</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chamois" title="Chamois">Chamois</a></td>
+<td>calf</td>
+<td>doe</td>
+<td>bull</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td>rupicaprine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cheetah" title="Cheetah">Cheetah</a></td>
+<td>cub</td>
+<td>she-cheetah</td>
+<td>cheetah</td>
+<td>coalition (male)<sup id="cite_ref-Caro94_39-0" class="reference"><a href="#cite_note-Caro94-39">&#91;35&#93;</a></sup></td>
+<td>feline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chicken" title="Chicken">Chicken</a> <i>(<a href="/wiki/List_of_chicken_breeds" title="List of chicken breeds">list</a>)</i></td>
+<td>chick</td>
+<td>hen<br />pullet</td>
+<td><a href="/wiki/Capon" title="Capon">capon</a> (castrated male)<br />cock<br />cockerel<br /><a href="/wiki/Rooster" class="mw-redirect" title="Rooster">rooster</a></td>
+<td>brood<sup id="cite_ref-sdzoo_11-30" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />clutch (eggs)<br /><a href="/wiki/Flocking_(behavior)" title="Flocking (behavior)">flock</a><br />peep (chicks)<sup id="cite_ref-sdzoo_11-31" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>galline</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chimpanzee" title="Chimpanzee">Chimpanzee</a></td>
+<td>infant</td>
+<td>empress</td>
+<td>emperor<br />blackback</td>
+<td>troop, group<br />tribe</td>
+<td>panine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chinchilla" title="Chinchilla">Chinchilla</a></td>
+<td>kit</td>
+<td>sow<br />velvet</td>
+<td>boar<br />bull</td>
+<td>colony</td>
+<td>chinchilline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chough" title="Chough">Chough</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>chattering<sup id="cite_ref-oxfordfaq_2-13" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-albans_17-1" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup><sup id="cite_ref-chattering_40-0" class="reference"><a href="#cite_note-chattering-40">&#91;36&#93;</a></sup><br />clattering<sup id="cite_ref-oxfordfaq_2-14" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-albans_17-2" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;37&#93;</a></sup></td>
+<td>corvine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Coati" title="Coati">Coati</a></td>
+<td>kit<br />pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>troop</td>
+<td>nasuine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cobra" title="Cobra">Cobra</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>quiver<sup id="cite_ref-universe_42-0" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td>elapid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cockroach" title="Cockroach">Cockroach</a></td>
+<td>nymph</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>intrusion<sup id="cite_ref-universe_42-1" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td>blattid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cod" title="Cod">Cod</a></td>
+<td>codling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>school</td>
+<td>gadine<br />gadoid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cormorant" title="Cormorant">Cormorant</a></td>
+<td>chick<br />shaglet</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flight<br />gulp<sup id="cite_ref-sdzoo_11-32" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-9" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-universe_42-2" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cow" class="mw-redirect" title="Cow">Cow</a> <br /><i>See</i> Cattle</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Crab" title="Crab">Crab</a></td>
+<td>zoea</td>
+<td>hen<br />jenny</td>
+<td>cock<br />jimmy</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>cancrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crane_(bird)" title="Crane (bird)">Crane</a></td>
+<td>chick<br />colt<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;39&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-albans2_44-0" class="reference"><a href="#cite_note-albans2-44">&#91;40&#93;</a></sup><sup id="cite_ref-oxfordfaq4_45-0" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><sup id="cite_ref-strutt_46-0" class="reference"><a href="#cite_note-strutt-46">&#91;42&#93;</a></sup><br />sedge<sup id="cite_ref-usgs_14-10" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />sege<sup id="cite_ref-sege_47-0" class="reference"><a href="#cite_note-sege-47">&#91;43&#93;</a></sup><br />siege<sup id="cite_ref-siege_48-0" class="reference"><a href="#cite_note-siege-48">&#91;44&#93;</a></sup></td>
+<td>alectorine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Cricket_(insect)" title="Cricket (insect)">Cricket</a></td>
+<td>nymph</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crocodile" title="Crocodile">Crocodile</a></td>
+<td>hatchling</td>
+<td>cow</td>
+<td>bull</td>
+<td>bask<sup id="cite_ref-sdzoo_11-33" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />congregation<br />float<sup id="cite_ref-sdzoo_11-34" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />menace</td>
+<td>crocodilian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crow" title="Crow">Crow</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>murder<sup id="cite_ref-oxfordfaq_2-15" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-35" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>corvine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Curlew" title="Curlew">Curlew</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>herd<sup id="cite_ref-oxfordfaq_2-16" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-albans_17-3" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="D"></span><b>D</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Deer" title="Deer">Deer</a></td>
+<td>calf<sup id="cite_ref-geist_15-1" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup><br />fawn</td>
+<td>doe<br /> hind<br />cow</td>
+<td>buck<br />bull<sup id="cite_ref-geist_15-2" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup><br />hart (red deer)<br />stag</td>
+<td>bunch<sup id="cite_ref-askoxford-d_49-0" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-askoxford-d_49-1" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />mob<sup id="cite_ref-askoxford-d_49-2" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />rangale<sup id="cite_ref-askoxford-d_49-3" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup></td>
+<td>cervine<br />elaphine</td>
+<td>humble (organ meat)<br /><a href="/wiki/Venison" title="Venison">venison</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dinosaur" title="Dinosaur">Dinosaur</a> <i>(<a href="/wiki/List_of_dinosaur_genera" title="List of dinosaur genera">list</a>)</i></td>
+<td>calf (<a href="/wiki/Ornithischia" title="Ornithischia">Ornithischia</a> and <a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a>)<br />chick (<a href="/wiki/Theropoda" title="Theropoda">Theropoda</a>)<br />hatchling<br />juvenile</td>
+<td>cow (<a href="/wiki/Ornithischia" title="Ornithischia">Ornithischia</a> and <a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a>)<br />hen (<a href="/wiki/Theropoda" title="Theropoda">Theropoda</a>)</td>
+<td>bull (<a href="/wiki/Ornithischia" title="Ornithischia">Ornithischia</a> and <a href="/wiki/Sauropodomorpha" title="Sauropodomorpha">Sauropodomorpha</a>)<br />cock (<a href="/wiki/Theropoda" title="Theropoda">Theropoda</a>)</td>
+<td>herd (herbivores)<br />pack (carnivores)</td>
+<td>dinosaurian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dog" title="Dog">Dog</a> <i>(<a href="/wiki/List_of_dog_breeds" title="List of dog breeds">list</a>)</i></td>
+<td>pup<sup id="cite_ref-pup_5-1" class="reference"><a href="#cite_note-pup-5">&#91;5&#93;</a></sup><br /><a href="/wiki/Puppy" title="Puppy">puppy</a><br />whelp<sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;46&#93;</a></sup></td>
+<td>bitch</td>
+<td>dog<br />sire<br />stud</td>
+<td>comedy (boxers)<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;47&#93;</a></sup><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;48&#93;</a></sup><br />cowardice (curs)<sup id="cite_ref-usgs_14-11" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;49&#93;</a></sup><br />cry (hounds)<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;50&#93;</a></sup><br />kennel<sup id="cite_ref-askoxford-d_49-4" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />litter (young)<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;51&#93;</a></sup><br />mute<sup id="cite_ref-usgs_14-12" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />pack (wild)<sup id="cite_ref-usgs_14-13" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-d_49-5" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup></td>
+<td>canine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Squalidae" title="Squalidae">Dogfish</a><br /><i>Also see</i> Shark</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>troop<sup id="cite_ref-askoxford-d_49-6" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup></td>
+<td>selachian<br />squaloid</td>
+<td>capeshark (US)<br /><a href="/wiki/Flake_(fish)" title="Flake (fish)">flake</a> (UK, Australia)<br />huss (UK)<br />kahada (Canada)<sup id="cite_ref-fao_56-0" class="reference"><a href="#cite_note-fao-56">&#91;52&#93;</a></sup><br />rigg (UK)<br /><a href="/wiki/Rock_salmon" title="Rock salmon">rock salmon</a> (UK)<br /><a href="/wiki/Spiny_dogfish" title="Spiny dogfish">spiny dogfish</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dolphin" title="Dolphin">Dolphin</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a><br />pod<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;53&#93;</a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;54&#93;</a></sup><br />school<sup id="cite_ref-askoxford-d_49-7" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />team<sup id="cite_ref-askoxford-d_49-8" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup></td>
+<td>delphine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Donkey" title="Donkey">Donkey</a> <i>(<a href="/wiki/List_of_donkey_breeds" title="List of donkey breeds">list</a>)</i><br /><i>See</i> Ass</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Dove" class="mw-redirect" title="Dove">Dove</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>arc<sup id="cite_ref-sdzoo_11-36" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />cote<br />dole<sup id="cite_ref-oxfordfaq_2-17" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-d_49-9" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />dule<sup id="cite_ref-sdzoo_11-37" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-d_49-10" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />flight<sup id="cite_ref-oxfordfaq_2-18" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-38" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-d_49-11" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />piteousness<sup id="cite_ref-oxfordfaq_2-19" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-d_49-12" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />pitying<sup id="cite_ref-sdzoo_11-39" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>columbine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragonfly" title="Dragonfly">Dragonfly</a></td>
+<td>nymph</td>
+<td>queen</td>
+<td>drake<br />king</td>
+<td>cluster<br />flight</td>
+<td>anisopteran</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Duck" title="Duck">Duck</a> <i>(<a href="/wiki/List_of_duck_breeds" title="List of duck breeds">list</a>)</i><br /><i>Also see</i> Mallard</td>
+<td>duckling</td>
+<td>duck<br />hen</td>
+<td>cock<br />drake</td>
+<td>badling (on land)<sup id="cite_ref-usgs_14-14" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />brace (on land)<sup id="cite_ref-usgs_14-15" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />bunch (on water)<sup id="cite_ref-oxfordfaq_2-20" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-d_49-13" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br /><a href="/wiki/Flocking_(behaviour)" class="mw-redirect" title="Flocking (behaviour)">flock</a> (on land)<br />herd (on land)<br />paddling (on water)<sup id="cite_ref-oxfordfaq_2-21" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-d_49-14" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />raft (on water)<sup id="cite_ref-oxfordfaq_2-22" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-d_49-15" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />safe (on land)<sup id="cite_ref-oxfordfaq_2-23" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />skein (in flight)<sup id="cite_ref-askoxford-d_49-16" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />sord (on land)<sup id="cite_ref-askoxford-d_49-17" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />sore (on land)<sup id="cite_ref-askoxford-d_49-18" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />string (in flight)<sup id="cite_ref-askoxford-d_49-19" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />team (in flight)<sup id="cite_ref-usgs_14-16" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-d_49-20" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup><br />waddling (on land)<sup id="cite_ref-askoxford-d_49-21" class="reference"><a href="#cite_note-askoxford-d-49">&#91;45&#93;</a></sup></td>
+<td>anatine<br />fuliguline</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dugong" title="Dugong">Dugong</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd</td>
+<td>dugongine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dunlin" title="Dunlin">Dunlin</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>fling<sup id="cite_ref-oxfordfaq_2-24" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="E"></span><b>E</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Eagle" title="Eagle">Eagle</a></td>
+<td>eaglet<br />fledgling</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>convocation<sup id="cite_ref-sdzoo_11-40" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-17" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>aquiline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Echidna" title="Echidna">Echidna</a></td>
+<td>puggle (in common use, but not scientifically endorsed)</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>tachyglossine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eel" title="Eel">Eel</a></td>
+<td>leptocephalus (larva)<br />elver (juvenile)</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>bed<sup id="cite_ref-sdzoo_11-41" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br /><a href="/wiki/Swarm" class="mw-redirect" title="Swarm">swarm</a><sup id="cite_ref-sdzoo_11-42" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>anguilline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elephant" title="Elephant">Elephant</a></td>
+<td>calf<sup id="cite_ref-calf_36-1" class="reference"><a href="#cite_note-calf-36">&#91;33&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-cow_37-1" class="reference"><a href="#cite_note-cow-37">&#91;34&#93;</a></sup></td>
+<td>bull<sup id="cite_ref-elephant_59-0" class="reference"><a href="#cite_note-elephant-59">&#91;55&#93;</a></sup></td>
+<td><a href="/wiki/Herd" title="Herd">herd</a><br />memory<sup id="cite_ref-sdzoo_11-43" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />parade<sup id="cite_ref-yourdict_22-1" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>elephantine<br />proboscidean<br />proboscine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elephant_seal" title="Elephant seal">Elephant seal</a></td>
+<td>pup</td>
+<td>cow</td>
+<td>bull</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>miroungan</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Elk" title="Elk">Elk</a>/wapiti</td>
+<td>calf<sup id="cite_ref-geist_15-3" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-geist_15-4" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>bull<sup id="cite_ref-geist_15-5" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>gang<sup id="cite_ref-sdzoo_11-44" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-sdzoo_11-45" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>cervine</td>
+<td><a href="/wiki/Venison" title="Venison">venison</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Emu" title="Emu">Emu</a></td>
+<td>chick<br />hatchling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>mob<sup id="cite_ref-sdzoo_11-46" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="F"></span><b>F</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Falcon" title="Falcon">Falcon</a></td>
+<td>eyass/eyas</td>
+<td>falcon</td>
+<td>tercel<br />terzel<br />tiercel</td>
+<td>cast<sup id="cite_ref-yourdict_22-2" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>acciptrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ferret" title="Ferret">Ferret</a></td>
+<td>kit</td>
+<td>jill</td>
+<td>hob</td>
+<td>business<sup id="cite_ref-sdzoo_11-47" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-18" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />busyness<sup id="cite_ref-albans_17-4" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup></td>
+<td>musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Finch" title="Finch">Finch</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>charm<sup id="cite_ref-usgs_14-19" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>fringilline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fish" title="Fish">Fish</a> <i>(<a href="/wiki/List_of_common_fish_names" class="mw-redirect" title="List of common fish names">list</a>)</i></td>
+<td>fingerling<br />fry</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>school<sup id="cite_ref-dictcom_3-4" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup></td>
+<td>piscine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Flamingo" title="Flamingo">Flamingo</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flamboyance<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;56&#93;</a></sup><br />stand<sup id="cite_ref-yourdict_22-3" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>phoenicopterine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fly" title="Fly">Fly</a></td>
+<td>maggot</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>business<sup id="cite_ref-sdzoo_11-48" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />cloud<sup id="cite_ref-sdzoo_11-49" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />swarm<sup id="cite_ref-sdzoo_11-50" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>dipterous</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fox" title="Fox">Fox</a></td>
+<td>cub<sup id="cite_ref-cub_25-1" class="reference"><a href="#cite_note-cub-25">&#91;24&#93;</a></sup><br />kit<br />pup<sup id="cite_ref-pup_5-2" class="reference"><a href="#cite_note-pup-5">&#91;5&#93;</a></sup></td>
+<td><a href="/wiki/Vixen" class="mw-redirect" title="Vixen">vixen</a></td>
+<td>dog<br />reynard<br />tod</td>
+<td>leash<sup id="cite_ref-sdzoo_11-51" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-20" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />skulk<sup id="cite_ref-sdzoo_11-52" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-21" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>vulpine</td>
+<td>F
+</td></tr>
+<tr>
+<td><a href="/wiki/Frog" title="Frog">Frog</a></td>
+<td>froglet<br />polliwog<br />tadpole</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>army<sup id="cite_ref-usgs_14-22" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>ranine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="G"></span><b>G</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Gazelle" title="Gazelle">Gazelle</a></td>
+<td>calf<sup id="cite_ref-geist_15-6" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-geist_15-7" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>bull<sup id="cite_ref-geist_15-8" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>herd</td>
+<td>gazelline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gecko" title="Gecko">Gecko</a></td>
+<td>hatchling</td>
+<td>dam (<a href="/wiki/Herpetoculture" title="Herpetoculture">herpetoculture</a>)</td>
+<td>sire (<a href="/wiki/Herpetoculture" title="Herpetoculture">herpetoculture</a>)</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gerbil" class="mw-redirect" title="Gerbil">Gerbil</a></td>
+<td>pup</td>
+<td>doe</td>
+<td>buck</td>
+<td>horde</td>
+<td>gerbilline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Giant_panda" title="Giant panda">Giant panda</a></td>
+<td>cub</td>
+<td>sow</td>
+<td>boar</td>
+<td>embarrassment <sup id="cite_ref-The_Independent_61-0" class="reference"><a href="#cite_note-The_Independent-61">&#91;57&#93;</a></sup><br />sleuth<sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;58&#93;</a></sup></td>
+<td>ailuropodine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Giraffe" title="Giraffe">Giraffe</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>corps<sup id="cite_ref-askoxford-g_63-0" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><br />tower<sup id="cite_ref-askoxford-g_63-1" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><sup id="cite_ref-handley10_64-0" class="reference"><a href="#cite_note-handley10-64">&#91;60&#93;</a></sup></td>
+<td>giraffine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gnat" title="Gnat">Gnat</a></td>
+<td>larva</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>cloud<sup id="cite_ref-sdzoo_11-53" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-23" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-g_63-2" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />horde<sup id="cite_ref-sdzoo_11-54" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-24" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-g_63-3" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />rabble<sup id="cite_ref-askoxford-g_63-4" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />swarm<sup id="cite_ref-sdzoo_11-55" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-g_63-5" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wildebeest" title="Wildebeest">Gnu</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd<br />implausibility<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">&#91;61&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goat" title="Goat">Goat</a> <i>(<a href="/wiki/List_of_goat_breeds" title="List of goat breeds">list</a>)</i></td>
+<td>kid</td>
+<td>doe<br />doeling<br />nanny</td>
+<td>billy<br />buck<br />buckling<br />wether (castrated)</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a><br />flock<sup id="cite_ref-askoxford-g_63-6" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />tribe<sup id="cite_ref-askoxford-g_63-7" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />trip<sup id="cite_ref-askoxford-g_63-8" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />trippe<sup id="cite_ref-askoxford-g_63-9" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>caprine</td>
+<td><a href="/wiki/Goat_meat" title="Goat meat">cabrito</a><br /><a href="/wiki/Goat_meat" title="Goat meat">chevon</a><br /><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">mutton</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/European_goldfinch" title="European goldfinch">Goldfinch</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>charm<sup id="cite_ref-askoxford-g_63-10" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>cardueline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Common_merganser" title="Common merganser">Goosander</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>dopping<sup id="cite_ref-askoxford-g_63-11" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goose" title="Goose">Goose</a></td>
+<td>gosling</td>
+<td>goose</td>
+<td>gander</td>
+<td>chevron (in flight)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2017)">citation needed</span></a></i>&#93;</sup><br />flock (on land)<br />gaggle (on land)<sup id="cite_ref-usgs_14-25" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-g_63-12" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />plump (on land)<sup id="cite_ref-askoxford-g_63-13" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />skein (in flight)<sup id="cite_ref-oxfordfaq_2-25" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-usgs_14-26" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-g_63-14" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />team (in flight)<sup id="cite_ref-oxfordfaq_2-26" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-g_63-15" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />wedge (in flight)<sup id="cite_ref-oxfordfaq_2-27" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-askoxford-g_63-16" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>anatine<br />anserine</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gorilla" title="Gorilla">Gorilla</a></td>
+<td>infant</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td><a href="/wiki/Blackback" class="mw-redirect" title="Blackback">blackback</a><br /><a href="/wiki/Silverback" class="mw-redirect" title="Silverback">silverback</a></td>
+<td>band<sup id="cite_ref-sdzoo_11-56" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-27" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-g_63-17" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />troop, group<sup id="cite_ref-sdzoo_11-57" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />whoop<sup id="cite_ref-askoxford-g_63-18" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>simian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Goshawk" title="Goshawk">Goshawk</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>flight<sup id="cite_ref-albans_17-5" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup><sup id="cite_ref-askoxford-g_63-19" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grasshopper" title="Grasshopper">Grasshopper</a></td>
+<td>nymph</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>cloud<sup id="cite_ref-askoxford-g_63-20" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />swarm<sup id="cite_ref-askoxford-g_63-21" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>caeliferian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grouse" title="Grouse">Grouse</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>covey<sup id="cite_ref-askoxford-g_63-22" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup><br />pack<sup id="cite_ref-askoxford-g_63-23" class="reference"><a href="#cite_note-askoxford-g-63">&#91;59&#93;</a></sup></td>
+<td>tetraonine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Guanaco" title="Guanaco">Guanaco</a></td>
+<td>chulengo<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;62&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td>camelid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Guinea_fowl" class="mw-redirect" title="Guinea fowl">Guinea fowl</a></td>
+<td>keet</td>
+<td>hen</td>
+<td>cock</td>
+<td>flock<sup id="cite_ref-Mobley09_67-0" class="reference"><a href="#cite_note-Mobley09-67">&#91;63&#93;</a></sup><br />rasp<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">&#91;64&#93;</a></sup></td>
+<td>numidine</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Guinea_pig" title="Guinea pig">Guinea pig</a></td>
+<td>pup</td>
+<td>sow</td>
+<td>boar</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Guinea_pig#As_food" title="Guinea pig">cuy</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Gull" title="Gull">Gull</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>colony<br /><a href="/wiki/Flocking_(behaviour)" class="mw-redirect" title="Flocking (behaviour)">flock</a></td>
+<td>larine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="H"></span><b>H</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Hamster" title="Hamster">Hamster</a></td>
+<td>pup</td>
+<td>doe</td>
+<td>buck</td>
+<td>horde</td>
+<td>cricetid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hare" title="Hare">Hare</a></td>
+<td>leveret</td>
+<td>doe<br />jill</td>
+<td>buck<br />jack</td>
+<td>band<br />down<sup id="cite_ref-askoxford-h_69-0" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />drove<sup id="cite_ref-askoxford-h_69-1" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />flick<sup id="cite_ref-askoxford-h_69-2" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />husk<sup id="cite_ref-askoxford-h_69-3" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup></td>
+<td>leporine<br />leverine<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2019)">citation needed</span></a></i>&#93;</sup></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hawk" title="Hawk">Hawk</a></td>
+<td>eyas</td>
+<td>hen</td>
+<td>tiercel</td>
+<td>aerie<sup id="cite_ref-hawkreh_70-0" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><sup id="cite_ref-71" class="reference"><a href="#cite_note-71">&#91;e&#93;</a></sup><br />boil (soaring in large groups)<sup id="cite_ref-usgs_14-28" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-hawkreh_70-3" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><br />cast<sup id="cite_ref-hawkreh_70-4" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;f&#93;</a></sup><br />cauldron (soaring in large groups)<sup id="cite_ref-hawkreh_70-6" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><br />flight<sup id="cite_ref-hawkreh_70-7" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">&#91;g&#93;</a></sup><br />flock<sup id="cite_ref-hawkreh_70-9" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><br /><a href="/wiki/Kettle_(birds)" title="Kettle (birds)">kettle</a> (soaring in large groups)<sup id="cite_ref-sdzoo_11-58" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-hawkreh_70-10" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><br />leash<sup id="cite_ref-hawkreh_70-11" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">&#91;h&#93;</a></sup><br />staff<sup id="cite_ref-hawkreh_70-13" class="reference"><a href="#cite_note-hawkreh-70">&#91;66&#93;</a></sup><sup id="cite_ref-75" class="reference"><a href="#cite_note-75">&#91;i&#93;</a></sup></td>
+<td>accipitrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hedgehog" title="Hedgehog">Hedgehog</a></td>
+<td>hoglet<br />piglet<br />pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>array<sup id="cite_ref-askoxford-h_69-4" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup></td>
+<td>erinaceine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hermit_crab" title="Hermit crab">Hermit crab</a></td>
+<td>zoea</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>paguroid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heron" title="Heron">Heron</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>flight<sup id="cite_ref-askoxford-h_69-5" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />sedge<sup id="cite_ref-sdzoo_11-59" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-29" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-h_69-6" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />sege<sup id="cite_ref-sege_47-1" class="reference"><a href="#cite_note-sege-47">&#91;43&#93;</a></sup><sup id="cite_ref-askoxford-h_69-7" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />siege<sup id="cite_ref-sdzoo_11-60" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-30" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-siege_48-1" class="reference"><a href="#cite_note-siege-48">&#91;44&#93;</a></sup><sup id="cite_ref-askoxford-h_69-8" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup></td>
+<td>ardeidine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Herring" title="Herring">Herring</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>army<sup id="cite_ref-usgs_14-31" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-h_69-9" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />glean<sup id="cite_ref-askoxford-h_69-10" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />shoal<sup id="cite_ref-askoxford-h_69-11" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup></td>
+<td>clupeidean</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hippopotamus" title="Hippopotamus">Hippopotamus</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>bloat<sup id="cite_ref-sdzoo_11-61" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-32" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-h_69-12" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-askoxford-h_69-13" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />sea<sup id="cite_ref-sdzoo_11-62" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-33" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-askoxford-h_69-14" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />thunder<sup id="cite_ref-universe_42-3" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td>hippopotamine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hornet" title="Hornet">Hornet</a></td>
+<td>larva<br />pupa</td>
+<td>queen</td>
+<td>drone</td>
+<td>bike<sup id="cite_ref-askoxford-h_69-15" class="reference"><a href="#cite_note-askoxford-h-69">&#91;65&#93;</a></sup><br />nest<sup id="cite_ref-usgs_14-34" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br /><a href="/wiki/Swarm" class="mw-redirect" title="Swarm">swarm</a></td>
+<td>vespine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Horse" title="Horse">Horse</a> <i>(<a href="/wiki/List_of_horse_breeds" title="List of horse breeds">list</a>)</i></td>
+<td><a href="/wiki/Colt_(horse)" title="Colt (horse)">colt</a> (male)<br /><a href="/wiki/Filly" title="Filly">filly</a> (female)<br /><a href="/wiki/Foal" title="Foal">foal</a><br /><a href="/wiki/Weanling" title="Weanling">weanling</a><br /><a href="/wiki/Yearling_(horse)" title="Yearling (horse)">yearling</a></td>
+<td>dam<br /><a href="/wiki/Mare" title="Mare">mare</a></td>
+<td><a href="/wiki/Gelding" title="Gelding">gelding</a> (castrated male)<br /><a href="/wiki/Ridgling" title="Ridgling">ridgling</a><br /><a href="/wiki/Stallion" title="Stallion">stallion</a> (not castrated)<br />stud</td>
+<td>band (wild horses)<sup id="cite_ref-sdzoo_11-63" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />field (racehorses)<br />harras<sup id="cite_ref-usgs_14-35" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a> (wild horses)<sup id="cite_ref-sdzoo_11-64" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />rag (colts)<sup id="cite_ref-usgs_14-36" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />stable<sup id="cite_ref-sdzoo_11-65" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />string (ponies)<sup id="cite_ref-usgs_14-37" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />stud<sup id="cite_ref-usgs_14-38" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />team (work horses)<sup id="cite_ref-sdzoo_11-66" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-39" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>caballine<br />equine</td>
+<td>horseflesh<br />horsemeat
+</td></tr>
+<tr>
+<td><a href="/wiki/Human" title="Human">Human</a></td>
+<td>baby<br />boy (male)<br />child<br />girl (female)<br />infant</td>
+<td>lady (colloquial)<br />woman</td>
+<td>gentleman (colloquial)<br />man</td>
+<td>band<br />clan<br />crowd<br />family<br />group<br />horde<br />tribe</td>
+<td>human<br />simian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hummingbird" title="Hummingbird">Hummingbird</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>trochilidine<br />trochiline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Hyena" title="Hyena">Hyena</a></td>
+<td>cub</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>cackle<sup id="cite_ref-sdzoo_11-67" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-40" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />clan</td>
+<td>hyenine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="I"></span><b>I</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Ibex" title="Ibex">Ibex</a></td>
+<td>kid</td>
+<td>nanny</td>
+<td>billy</td>
+<td>herd<sup id="cite_ref-76" class="reference"><a href="#cite_note-76">&#91;67&#93;</a></sup></td>
+<td>caprine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ibis" title="Ibis">Ibis</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>colony</td>
+<td>ciconiiforme</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Iguana" title="Iguana">Iguana</a></td>
+<td>hatchling</td>
+<td>cow</td>
+<td>bull</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Impala" title="Impala">Impala</a></td>
+<td>calf</td>
+<td>ewe</td>
+<td>ram</td>
+<td>herd</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="J"></span><b>J</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Jaguar" title="Jaguar">Jaguar</a></td>
+<td>cub</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>leap<sup id="cite_ref-ask.com_77-0" class="reference"><a href="#cite_note-ask.com-77">&#91;68&#93;</a></sup><br />parade<sup id="cite_ref-yourdict_22-4" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />prowl<sup id="cite_ref-ask.com_77-1" class="reference"><a href="#cite_note-ask.com-77">&#91;68&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jay" title="Jay">Jay</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>band<sup id="cite_ref-sdzoo_11-68" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />party<sup id="cite_ref-usgs_14-41" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />scold<sup id="cite_ref-usgs_14-42" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>corvine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jellyfish" title="Jellyfish">Jellyfish</a></td>
+<td>ephyra<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">&#91;69&#93;</a></sup><br /><a href="/wiki/Planula" title="Planula">planula</a><br /><a href="/wiki/Polyp_(zoology)" title="Polyp (zoology)">polyp</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Jellyfish#Blooms" title="Jellyfish">bloom</a><br />brood<sup id="cite_ref-sdzoo_11-69" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />fluther<sup id="cite_ref-oxfordfaq_2-28" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />smack<sup id="cite_ref-oxfordfaq_2-29" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-usgs_14-43" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />smuth<sup id="cite_ref-sparkes_10-1" class="reference"><a href="#cite_note-sparkes-10">&#91;10&#93;</a></sup></td>
+<td><a href="/wiki/Scyphozoa" title="Scyphozoa">scyphozoan</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Junglefowl" title="Junglefowl">Junglefowl</a><br /><span style="font-size:85%;">(<i>see</i> chicken)</span></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="K"></span><b>K</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Kangaroo" title="Kangaroo">Kangaroo</a></td>
+<td>joey</td>
+<td>doe<br />flyer<br />jill<br />roo</td>
+<td>boomer<br />buck<br />jack</td>
+<td>court<br />herd<br />mob<sup id="cite_ref-kangaroo_facts_79-0" class="reference"><a href="#cite_note-kangaroo_facts-79">&#91;70&#93;</a></sup><br />troop<sup id="cite_ref-usgs_14-44" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>macropodine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kingbird" title="Kingbird">Kingbird</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>court<br />tyranny<br />coronation</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kinkajou" title="Kinkajou">Kinkajou</a></td>
+<td>kit<br />pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>convergence<br />troop</td>
+<td>potosine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Kite_(bird)" title="Kite (bird)">Kite</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>accipitrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Koala" title="Koala">Koala</a></td>
+<td>joey</td>
+<td>doe</td>
+<td>buck</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>phascolarctine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Komodo_dragon" title="Komodo dragon">Komodo dragon</a></td>
+<td>calf<br />chick<br />hatchling</td>
+<td>cow<br />hen</td>
+<td>bull<br />cock</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>varanine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="L"></span><b>L</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Ladybug" class="mw-redirect" title="Ladybug">Ladybug</a></td>
+<td>larva</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>loveliness</td>
+<td>coleopterous</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lapwing" title="Lapwing">Lapwing</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>deceit<sup id="cite_ref-usgs_14-45" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-albans_17-6" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup><br />desert<sup id="cite_ref-oxfordfaq_2-30" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td>vanelline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lark" title="Lark">Lark</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>exaltation<sup id="cite_ref-oxfordfaq_2-31" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-albans_17-7" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup></td>
+<td>alaudine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lemur" title="Lemur">Lemur</a></td>
+<td>infant</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>conspiracy<sup id="cite_ref-mnn_80-0" class="reference"><a href="#cite_note-mnn-80">&#91;71&#93;</a></sup></td>
+<td>lemurine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leopard" title="Leopard">Leopard</a></td>
+<td>cub</td>
+<td>leopardess</td>
+<td>leopard</td>
+<td>leap<sup id="cite_ref-oxfordfaq_2-32" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-70" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-46" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />lepe<sup id="cite_ref-oxfordfaq_2-33" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td>pardine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lion" title="Lion">Lion</a></td>
+<td>cub<sup id="cite_ref-cub_25-2" class="reference"><a href="#cite_note-cub-25">&#91;24&#93;</a></sup></td>
+<td>lioness</td>
+<td>lion</td>
+<td>pride<sup id="cite_ref-sdzoo6_81-0" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><sup id="cite_ref-usgs8_82-0" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><sup id="cite_ref-oxfordfaq4_45-1" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><br />sawt<sup id="cite_ref-oxfordfaq4_45-2" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><sup id="cite_ref-83" class="reference"><a href="#cite_note-83">&#91;74&#93;</a></sup></td>
+<td>leonine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lizard" title="Lizard">Lizard</a></td>
+<td>hatchling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Llama" title="Llama">Llama</a></td>
+<td>cria</td>
+<td>dam<br />hembra</td>
+<td>macho<br />stud</td>
+<td><a href="/wiki/Flocking_(behaviour)" class="mw-redirect" title="Flocking (behaviour)">flock</a><br /><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td>camelid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lobster" title="Lobster">Lobster</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>hen<sup id="cite_ref-dictcom_3-5" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup></td>
+<td>cock<sup id="cite_ref-dictcom_3-6" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup></td>
+<td>risk</td>
+<td>homarine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Locust" title="Locust">Locust</a> <i>(<a href="/wiki/List_of_locust_species" title="List of locust species">list</a>)</i></td>
+<td>nymph</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>cloud<br />host<br />swarm</td>
+<td>caelifera</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Loris" title="Loris">Loris</a></td>
+<td>infant</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>colony<sup id="cite_ref-priceless_84-0" class="reference"><a href="#cite_note-priceless-84">&#91;75&#93;</a></sup></td>
+<td>lorisine<sup id="cite_ref-85" class="reference"><a href="#cite_note-85">&#91;76&#93;</a></sup></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Louse" title="Louse">Louse</a></td>
+<td>nymph</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>colony</td>
+<td>pediculine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Lyrebird" title="Lyrebird">Lyrebird</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>musket<sup id="cite_ref-86" class="reference"><a href="#cite_note-86">&#91;77&#93;</a></sup></td>
+<td>menurine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="M"></span><b>M</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Mallard" title="Mallard">Mallard</a><br /><i>Also see</i> Duck</td>
+<td>duckling</td>
+<td>hen</td>
+<td>greenhead<sup id="cite_ref-87" class="reference"><a href="#cite_note-87">&#91;78&#93;</a></sup></td>
+<td>sord<sup id="cite_ref-oxfordfaq_2-34" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />suit<sup id="cite_ref-oxfordfaq_2-35" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td>anatine</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mammoth" title="Mammoth">Mammoth</a><br /><span style="font-size:85%;">(<i>see</i> elephant)</span></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd<br />pack</td>
+<td>mammutine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Manatee" title="Manatee">Manatee</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td>manatine<br />sirenian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mandrill" title="Mandrill">Mandrill</a></td>
+<td>infant</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>horde</td>
+<td>simian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Manta_ray" title="Manta ray">Manta ray</a></td>
+<td>fry</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>feline<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2022)">citation needed</span></a></i>&#93;</sup></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mantis" title="Mantis">Mantis</a></td>
+<td>nymph</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>swarm</td>
+<td>caelifera</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Meerkat" title="Meerkat">Meerkat</a></td>
+<td>meerkitten</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>herpestine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mink" title="Mink">Mink</a></td>
+<td>cub<br />kit</td>
+<td>sow</td>
+<td>boar</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mole_(animal)" title="Mole (animal)">Mole</a></td>
+<td>pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>labor<sup id="cite_ref-yourdict_22-5" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>talpine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mongoose" title="Mongoose">Mongoose</a></td>
+<td>pup</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>committee<br />delegation<br />troop</td>
+<td>herpestine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Monkey" title="Monkey">Monkey</a></td>
+<td>infant</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>group, troop<sup id="cite_ref-oxfordfaq_2-36" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup></td>
+<td>simian</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Moose" title="Moose">Moose</a></td>
+<td>calf<sup id="cite_ref-geist_15-9" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-geist_15-10" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup></td>
+<td>bull<sup id="cite_ref-geist_15-11" class="reference"><a href="#cite_note-geist-15">&#91;15&#93;</a></sup><sup id="cite_ref-elephant_59-1" class="reference"><a href="#cite_note-elephant-59">&#91;55&#93;</a></sup></td>
+<td>herd</td>
+<td>cervine</td>
+<td><a href="/wiki/Venison" title="Venison">venison</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mosquito" title="Mosquito">Mosquito</a></td>
+<td>nymph<br />tumbler<br />wriggled</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>cloud<br />scourge<br /><a href="/wiki/Swarm" class="mw-redirect" title="Swarm">swarm</a></td>
+<td>aedine<br />anopheline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mouse" title="Mouse">Mouse</a></td>
+<td>crawler (as pet feed)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2023)">citation needed</span></a></i>&#93;</sup><br />fuzzy (as pet feed)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2023)">citation needed</span></a></i>&#93;</sup><br />hopper (as pet feed)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2023)">citation needed</span></a></i>&#93;</sup><br />pinky (as pet feed)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2023)">citation needed</span></a></i>&#93;</sup><br />pup</td>
+<td>doe</td>
+<td>buck</td>
+<td>colony<br />nest</td>
+<td>murine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="N"></span><b>N</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Narwhal" title="Narwhal">Narwhal</a></td>
+<td>calf<sup id="cite_ref-:2_88-0" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-:2_88-1" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup></td>
+<td>bull<sup id="cite_ref-:2_88-2" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup></td>
+<td>pod<sup id="cite_ref-:2_88-3" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup><br />herd<sup id="cite_ref-:2_88-4" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup><br />school<sup id="cite_ref-:2_88-5" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup><br />gam<sup id="cite_ref-:2_88-6" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup><br />grind<sup id="cite_ref-:2_88-7" class="reference"><a href="#cite_note-:2-88">&#91;79&#93;</a></sup></td>
+<td>cetacean<sup id="cite_ref-:3_89-0" class="reference"><a href="#cite_note-:3-89">&#91;80&#93;</a></sup><br />cetaceous<sup id="cite_ref-:3_89-1" class="reference"><a href="#cite_note-:3-89">&#91;80&#93;</a></sup></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Newt" title="Newt">Newt</a></td>
+<td>eft<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">&#91;81&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>pleurodeline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nightingale" class="mw-redirect" title="Nightingale">Nightingale</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>watch<sup id="cite_ref-albans2_44-1" class="reference"><a href="#cite_note-albans2-44">&#91;40&#93;</a></sup><sup id="cite_ref-oxfordfaq4_45-3" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><sup id="cite_ref-strutt_46-1" class="reference"><a href="#cite_note-strutt-46">&#91;42&#93;</a></sup></td>
+<td>philomelian</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="O"></span><b>O</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Octopus" title="Octopus">Octopus</a></td>
+<td>fry<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2022)">citation needed</span></a></i>&#93;</sup></td>
+<td>hen<sup id="cite_ref-91" class="reference"><a href="#cite_note-91">&#91;82&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>consortium<sup id="cite_ref-92" class="reference"><a href="#cite_note-92">&#91;83&#93;</a></sup></td>
+<td>octopodine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Okapi" title="Okapi">Okapi</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd</td>
+<td>okapine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Opossum" title="Opossum">Opossum</a></td>
+<td>joey</td>
+<td>jill</td>
+<td>jack</td>
+<td>passel<sup id="cite_ref-93" class="reference"><a href="#cite_note-93">&#91;84&#93;</a></sup></td>
+<td>didelphine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ostrich" title="Ostrich">Ostrich</a></td>
+<td>chick<br />hatchling</td>
+<td>hen</td>
+<td>cock</td>
+<td>flock<br />troop</td>
+<td>ratite<br />struthious</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Otter" title="Otter">Otter</a></td>
+<td>pup<br />whelp</td>
+<td>sow</td>
+<td>boar</td>
+<td>family<sup id="cite_ref-yourdict_22-6" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />romp</td>
+<td>lutrine<br />musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ox" title="Ox">Ox</a><br /><i>See</i> Cattle</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Owl" title="Owl">Owl</a></td>
+<td>fledgling<br />owlet</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>parliament<sup id="cite_ref-sdzoo_11-71" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>strigine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Oyster" title="Oyster">Oyster</a></td>
+<td>spat</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>bed<sup id="cite_ref-sdzoo_11-72" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup></td>
+<td>ostracine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="P"></span><b>P</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Black_panther" title="Black panther">Panther</a></td>
+<td>cub</td>
+<td>pantheress</td>
+<td>panther</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>pantherine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Parrot" title="Parrot">Parrot</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>flock</td>
+<td>psittacine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Panda" class="mw-redirect" title="Panda">Panda</a><br /><i>See</i> Giant panda</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Partridge" title="Partridge">Partridge</a></td>
+<td>chick</td>
+<td>chantelle<br />hen</td>
+<td>cock</td>
+<td>covey<br />roost</td>
+<td>perdicine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Peafowl" title="Peafowl">Peafowl</a></td>
+<td>chick<br />peachick</td>
+<td>peahen</td>
+<td>peacock</td>
+<td>ostentation</td>
+<td>pavonine</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pelican" title="Pelican">Pelican</a></td>
+<td>chick<br />nestling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>pod<sup id="cite_ref-sdzoo_11-73" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />scoop</td>
+<td>pelecanine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Penguin" title="Penguin">Penguin</a></td>
+<td>chick<br />nestling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>colony<sup id="cite_ref-penguin_94-0" class="reference"><a href="#cite_note-penguin-94">&#91;85&#93;</a></sup><br />huddle<sup id="cite_ref-penguin_94-1" class="reference"><a href="#cite_note-penguin-94">&#91;85&#93;</a></sup><br />raft (in water)<sup id="cite_ref-penguin_94-2" class="reference"><a href="#cite_note-penguin-94">&#91;85&#93;</a></sup><br />rookery<sup id="cite_ref-penguin_94-3" class="reference"><a href="#cite_note-penguin-94">&#91;85&#93;</a></sup><br />tuxedo<sup id="cite_ref-sparkes_10-2" class="reference"><a href="#cite_note-sparkes-10">&#91;10&#93;</a></sup><br />waddle (on land)<sup id="cite_ref-penguin_94-4" class="reference"><a href="#cite_note-penguin-94">&#91;85&#93;</a></sup><sup id="cite_ref-95" class="reference"><a href="#cite_note-95">&#91;86&#93;</a></sup></td>
+<td>spheniscine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pheasant" title="Pheasant">Pheasant</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>bouquet<sup id="cite_ref-sdzoo_11-74" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-47" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />flock<br />nest<sup id="cite_ref-usgs_14-48" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />nide<sup id="cite_ref-usgs_14-49" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />nye<sup id="cite_ref-sdzoo_11-75" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-50" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>phasianine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Domestic_pig" class="mw-redirect" title="Domestic pig">Pig</a> <i>(<a href="/wiki/List_of_pig_breeds" title="List of pig breeds">list</a>)</i><br /><i>Also see</i> Boar</td>
+<td>farrow<br />piglet<br />shoat/shote (just weaned)</td>
+<td>gilt (not bred)<sup id="cite_ref-96" class="reference"><a href="#cite_note-96">&#91;87&#93;</a></sup><br />sow (bred)</td>
+<td>barrow (castrated)<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">&#91;88&#93;</a></sup><sup id="cite_ref-98" class="reference"><a href="#cite_note-98">&#91;89&#93;</a></sup><br />boar<br />hog</td>
+<td>drift<sup id="cite_ref-sdzoo_11-76" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-51" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-99" class="reference"><a href="#cite_note-99">&#91;90&#93;</a></sup><br />drove<sup id="cite_ref-sdzoo_11-77" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-52" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><br />litter (piglets)<br />sounder (older pigs)<sup id="cite_ref-yourdict_22-7" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />team (older pigs)<sup id="cite_ref-yourdict_22-8" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>porcine<br />suilline</td>
+<td><a href="/wiki/Bacon" title="Bacon">bacon</a><br /><a href="/wiki/Ham" title="Ham">ham</a><br /><a href="/wiki/Pork" title="Pork">pork</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pigeon" class="mw-redirect" title="Pigeon">Pigeon</a> <i>(<a href="/wiki/List_of_pigeon_breeds" title="List of pigeon breeds">list</a>)</i></td>
+<td>squab<br />squeaker</td>
+<td>hen</td>
+<td>cock</td>
+<td>flight<sup id="cite_ref-:0_100-0" class="reference"><a href="#cite_note-:0-100">&#91;91&#93;</a></sup><br />flock<br />kit<sup id="cite_ref-:0_100-1" class="reference"><a href="#cite_note-:0-100">&#91;91&#93;</a></sup></td>
+<td>pullastrine</td>
+<td><a href="/wiki/Squab_(food)" class="mw-redirect" title="Squab (food)">squab</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Polar_bear" title="Polar bear">Polar bear</a></td>
+<td>cub</td>
+<td>sow</td>
+<td>boar</td>
+<td>aurora<sup id="cite_ref-aurora_101-0" class="reference"><a href="#cite_note-aurora-101">&#91;92&#93;</a></sup><br />celebration<sup id="cite_ref-aurora_101-1" class="reference"><a href="#cite_note-aurora-101">&#91;92&#93;</a></sup><br />pack<sup id="cite_ref-aurora_101-2" class="reference"><a href="#cite_note-aurora-101">&#91;92&#93;</a></sup></td>
+<td>ursine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pony" title="Pony">Pony</a><br /><i>See</i> Horse</td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver"></td>
+<td style="background: silver">
+</td></tr>
+<tr>
+<td><a href="/wiki/Porcupine" title="Porcupine">Porcupine</a></td>
+<td>pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>prickle<sup id="cite_ref-:0_100-2" class="reference"><a href="#cite_note-:0-100">&#91;91&#93;</a></sup></td>
+<td>hystricine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Porpoise" title="Porpoise">Porpoise</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>pod<br />school<br />shoal</td>
+<td>phocoenine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Prairie_dog" title="Prairie dog">Prairie dog</a></td>
+<td>pup</td>
+<td>sow</td>
+<td>boar</td>
+<td>town</td>
+<td>cynomurine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pug" title="Pug">Pug</a></td>
+<td>pup</td>
+<td>bitch</td>
+<td>dog<br />sire<br />stud</td>
+<td>grumble<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">&#91;93&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="Q"></span><b>Q</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Quail" title="Quail">Quail</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>bevy<sup id="cite_ref-sdzoo6_81-1" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><sup id="cite_ref-usgs8_82-1" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><sup id="cite_ref-albans2_44-2" class="reference"><a href="#cite_note-albans2-44">&#91;40&#93;</a></sup><sup id="cite_ref-oxfordfaq4_45-4" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><sup id="cite_ref-strutt_46-2" class="reference"><a href="#cite_note-strutt-46">&#91;42&#93;</a></sup></td>
+<td>galliformine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="R"></span><b>R</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Rabbit" title="Rabbit">Rabbit</a> <i>(<a href="/wiki/List_of_rabbit_breeds" title="List of rabbit breeds">list</a>)</i></td>
+<td>bunny<br />kit<br />kitten<br />nestling</td>
+<td>doe<br />jill</td>
+<td>buck<br />jack<br />yoyo</td>
+<td>litter (young)<br />nest<sup id="cite_ref-usgs8_82-2" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><br />warren<br />wrack (young)</td>
+<td>leporine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Raccoon" title="Raccoon">Raccoon</a></td>
+<td>cub<br />kit</td>
+<td>sow</td>
+<td>boar</td>
+<td>brace<br />committee<br />gaze<sup id="cite_ref-sdzoo6_81-2" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><br />nursery<br />smack<br />troop</td>
+<td>procyonine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sheep" title="Sheep">Ram</a><br /><i>Also see</i> Sheep</td>
+<td>lamb</td>
+<td>ewe</td>
+<td>ram</td>
+<td>flock</td>
+<td>arietine<br />ovine</td>
+<td><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">lamb</a><br /><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">mutton</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rat" title="Rat">Rat</a> <i>(<a href="/wiki/List_of_rat_species" class="mw-redirect" title="List of rat species">list</a>)</i></td>
+<td>kitten<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2018)">citation needed</span></a></i>&#93;</sup><br />pup</td>
+<td>doe</td>
+<td>buck</td>
+<td>colony<br />horde<br />mischief<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">&#91;94&#93;</a></sup><sup id="cite_ref-abccfeat_104-0" class="reference"><a href="#cite_note-abccfeat-104">&#91;95&#93;</a></sup></td>
+<td>murine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Raven" title="Raven">Raven</a></td>
+<td>chick</td>
+<td>hen</td>
+<td>cock</td>
+<td>conspiracy<br />unkindness<sup id="cite_ref-albans2_44-3" class="reference"><a href="#cite_note-albans2-44">&#91;40&#93;</a></sup><sup id="cite_ref-oxfordfaq4_45-5" class="reference"><a href="#cite_note-oxfordfaq4-45">&#91;41&#93;</a></sup><sup id="cite_ref-105" class="reference"><a href="#cite_note-105">&#91;96&#93;</a></sup></td>
+<td>corvid<br />corvine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_deer" title="Red deer">Red deer</a></td>
+<td>calf</td>
+<td>hind</td>
+<td>hart<br />stag</td>
+<td><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Venison" title="Venison">venison</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Red_panda" title="Red panda">Red panda</a></td>
+<td>cub</td>
+<td>sow</td>
+<td>boar</td>
+<td>pack</td>
+<td>ailurid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rhinoceros" title="Rhinoceros">Rhinoceros</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>crash<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">&#91;97&#93;</a></sup><br />herd</td>
+<td>ceratorhine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rook_(bird)" title="Rook (bird)">Rook</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>building<sup id="cite_ref-oxfordfaq_2-37" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><br />parliament<sup id="cite_ref-oxfordfaq_2-38" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-107" class="reference"><a href="#cite_note-107">&#91;98&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="S"></span><b>S</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Salamander" title="Salamander">Salamander</a></td>
+<td>larva</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>maelstrom</td>
+<td>caudatan<br />salamandrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Salmon" title="Salmon">Salmon</a></td>
+<td>parr<sup id="cite_ref-108" class="reference"><a href="#cite_note-108">&#91;99&#93;</a></sup></td>
+<td>hen<br />jen</td>
+<td>cock<br />jack</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>salmonine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sand_dollar" title="Sand dollar">Sand dollar</a></td>
+<td>juvenile (young urchin)<br />larva pluteus (free-swimming stage)</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>clypeasteroid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sandpiper" title="Sandpiper">Sandpiper</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>fling<sup id="cite_ref-askoxford-s_109-0" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup></td>
+<td>scolopacine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sardine" title="Sardine">Sardine</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>family <sup id="cite_ref-askoxford-s_109-1" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sea_lion" title="Sea lion">Sea lion</a></td>
+<td>pup</td>
+<td>cow</td>
+<td>bull</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>otarine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Seahorse" title="Seahorse">Seahorse</a></td>
+<td>seafoal</td>
+<td>seamare</td>
+<td>seastallion</td>
+<td>shoal</td>
+<td>hippocampal</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Pinniped" title="Pinniped">Seal</a></td>
+<td>pup<sup id="cite_ref-pup_5-3" class="reference"><a href="#cite_note-pup-5">&#91;5&#93;</a></sup></td>
+<td>cow</td>
+<td>bull</td>
+<td>herd<sup id="cite_ref-askoxford-s_109-2" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup><br />pod<sup id="cite_ref-askoxford-s_109-3" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup><br />rookery<sup id="cite_ref-askoxford-s_109-4" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup></td>
+<td>phoca</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sea_otter" title="Sea otter">Sea otter</a></td>
+<td>pup</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>raft</td>
+<td>lutrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shark" title="Shark">Shark</a></td>
+<td>cub<sup id="cite_ref-cub_25-3" class="reference"><a href="#cite_note-cub-25">&#91;24&#93;</a></sup><br />pup<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">&#91;101&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>bull</td>
+<td>shiver <sup id="cite_ref-The_Independent_61-1" class="reference"><a href="#cite_note-The_Independent-61">&#91;57&#93;</a></sup></td>
+<td>selachian<br />squaloid</td>
+<td><a href="/wiki/Flake_(fish)" title="Flake (fish)">flake</a> (AUS)
+</td></tr>
+<tr>
+<td><a href="/wiki/Sheep" title="Sheep">Sheep</a> <i>(<a href="/wiki/List_of_sheep_breeds" title="List of sheep breeds">list</a>)</i><br /><i>Also see</i> Ram</td>
+<td>cosset<br />lamb<br />lambkin</td>
+<td>dam<br />ewe</td>
+<td>buck<br />ram<br />wether (castrated)</td>
+<td>flock<sup id="cite_ref-sdzoo6_81-3" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><sup id="cite_ref-usgs8_82-3" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><br />fold<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">&#91;102&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a></td>
+<td>ovine</td>
+<td><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">hogget</a><br /><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">lamb</a><br /><a href="/wiki/Lamb_and_mutton" title="Lamb and mutton">mutton</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Shrew" title="Shrew">Shrew</a></td>
+<td>shrewlet</td>
+<td>sow</td>
+<td>boar</td>
+<td>colony<br />drove</td>
+<td>soricine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Skink" title="Skink">Skink</a></td>
+<td>skinklet</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>scincine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Skipper_(butterfly)" title="Skipper (butterfly)">Skipper</a></td>
+<td>caterpillar</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>hesperiine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Skunk" title="Skunk">Skunk</a></td>
+<td>kit</td>
+<td>sow</td>
+<td>boar<sup id="cite_ref-dictcom_3-7" class="reference"><a href="#cite_note-dictcom-3">&#91;3&#93;</a></sup></td>
+<td>surfeit</td>
+<td>mephitine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sloth" title="Sloth">Sloth</a></td>
+<td>baby<br />kitten<br />pup</td>
+<td>sow</td>
+<td>boar</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>xenarthran (broader group)</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Snail" title="Snail">Snail</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>escargatoire<sup id="cite_ref-askoxford-s_109-5" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup><sup id="cite_ref-112" class="reference"><a href="#cite_note-112">&#91;103&#93;</a></sup><br />rout<sup id="cite_ref-askoxford-s_109-6" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup><sup id="cite_ref-113" class="reference"><a href="#cite_note-113">&#91;104&#93;</a></sup><br />walk<sup id="cite_ref-askoxford-s_109-7" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup></td>
+<td>gastropodian</td>
+<td><a href="/wiki/Escargot" class="mw-redirect" title="Escargot">escargot</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Snake" title="Snake">Snake</a> <i>(<a href="/wiki/List_of_snake_genera" class="mw-redirect" title="List of snake genera">list</a>)</i></td>
+<td>hatchling (newly hatched)<br />neonate (newborn)<br />snakelet</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>ball<br />nest<sup id="cite_ref-usgs8_82-4" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><br />slither</td>
+<td>anguine<br />elapine<br />ophidian<br />serpentine<br />viperine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spider" title="Spider">Spider</a> <i>(<a href="/wiki/List_of_spider_common_names" class="mw-redirect" title="List of spider common names">list</a>)</i></td>
+<td>spiderling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>cluster<sup id="cite_ref-askoxford-s_109-8" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup><br />clutter<sup id="cite_ref-askoxford-s_109-9" class="reference"><a href="#cite_note-askoxford-s-109">&#91;100&#93;</a></sup></td>
+<td>arachnine<br />arachnoid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spoonbill" title="Spoonbill">Spoonbill</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>bowl</td>
+<td>ciconiiforme</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Squid" title="Squid">Squid</a></td>
+<td>paralarva</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>shoal</td>
+<td>teuthidane</td>
+<td>
+</td></tr>
+<tr>
+<td id="squirrel"><a href="/wiki/Squirrel" title="Squirrel">Squirrel</a></td>
+<td>kit<br />kitten<br />pup</td>
+<td>doe</td>
+<td>buck</td>
+<td>scurry<sup id="cite_ref-universe_42-4" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td>sciurine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Starfish" title="Starfish">Starfish</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>asteroid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Starling" title="Starling">Starling</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>chattering<sup id="cite_ref-sdzoo_11-78" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-chattering_40-1" class="reference"><a href="#cite_note-chattering-40">&#91;36&#93;</a></sup><br />murmuration<sup id="cite_ref-oxfordfaq_2-39" class="reference"><a href="#cite_note-oxfordfaq-2">&#91;2&#93;</a></sup><sup id="cite_ref-sdzoo_11-79" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-53" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup><sup id="cite_ref-albans_17-8" class="reference"><a href="#cite_note-albans-17">&#91;17&#93;</a></sup></td>
+<td>sturnine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stilt" title="Stilt">Stilt</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>recurvirostrid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Stingray" title="Stingray">Stingray</a></td>
+<td>pup</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>fever</td>
+<td>squaloid</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Swan" title="Swan">Swan</a></td>
+<td>cygnet<br />flapper</td>
+<td>pen</td>
+<td>cob</td>
+<td>bevy<sup id="cite_ref-yourdict_22-9" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />flock<br />game<sup id="cite_ref-yourdict_22-10" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />lamentation<br />wedge (in flight)<sup id="cite_ref-yourdict_22-11" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup></td>
+<td>cygnine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="T"></span><b>T</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Tapir" title="Tapir">Tapir</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd</td>
+<td>tapirine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tarsier" title="Tarsier">Tarsier</a></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>tarsiine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Termite" title="Termite">Termite</a></td>
+<td>larva</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>colony<br />nest<br />swarm</td>
+<td>isopteran</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Thrush_(bird)" title="Thrush (bird)">Thrush</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>turdine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tiger" title="Tiger">Tiger</a></td>
+<td>cub<sup id="cite_ref-cub_25-4" class="reference"><a href="#cite_note-cub-25">&#91;24&#93;</a></sup><br />whelp</td>
+<td>tigress</td>
+<td>tiger</td>
+<td>ambush<sup id="cite_ref-sdzoo_11-80" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><br />streak<sup id="cite_ref-universe_42-5" class="reference"><a href="#cite_note-universe-42">&#91;38&#93;</a></sup></td>
+<td>tigrine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Toad" title="Toad">Toad</a></td>
+<td>tadpole<br />toadlet</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>knot<sup id="cite_ref-sdzoo_11-81" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-usgs_14-54" class="reference"><a href="#cite_note-usgs-14">&#91;14&#93;</a></sup></td>
+<td>batrachian<br />ranine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Toucan" title="Toucan">Toucan</a></td>
+<td>chick</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>durante</td>
+<td>ramphasto</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Domesticated_turkey" class="mw-redirect" title="Domesticated turkey">Turkey</a> <i>(<a href="/wiki/List_of_turkey_breeds" title="List of turkey breeds">list</a>)</i></td>
+<td>poult</td>
+<td>hen</td>
+<td>gobbler<br />jake (immature)<br />stag<br />tom</td>
+<td>rafter<sup id="cite_ref-bartlett2003_114-0" class="reference"><a href="#cite_note-bartlett2003-114">&#91;105&#93;</a></sup><sup id="cite_ref-robertson1991_115-0" class="reference"><a href="#cite_note-robertson1991-115">&#91;106&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td><a href="/wiki/Poultry" title="Poultry">poultry</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Turtle" title="Turtle">Turtle</a></td>
+<td>hatchling</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td data-sort-value="" style="background: #ececec; color: #2C2C2C; vertical-align: middle; text-align: center;" class="table-na">—</td>
+<td>bale<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">&#91;107&#93;</a></sup></td>
+<td>chelonian</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="V"></span><b>V</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Viper" class="mw-redirect" title="Viper">Viper</a></td>
+<td>hatchling</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>viperine</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="W"></span><b>W</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Wallaby" title="Wallaby">Wallaby</a></td>
+<td>joey</td>
+<td>jill</td>
+<td>jack</td>
+<td>mob</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Walrus" title="Walrus">Walrus</a></td>
+<td>calf</td>
+<td>cow</td>
+<td>bull</td>
+<td>herd<sup id="cite_ref-usgs8_82-5" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><br />pod<sup id="cite_ref-usgs8_82-6" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup></td>
+<td>odobenine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wasp" title="Wasp">Wasp</a></td>
+<td>larva</td>
+<td>queen<br />worker</td>
+<td>drone</td>
+<td>colony<br />hive<br />nest<br />swarm</td>
+<td>vespine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Weasel" title="Weasel">Weasel</a></td>
+<td>kit<br />pup</td>
+<td>bitch<br />doe<br />jill</td>
+<td>buck<br />dog<br />hub<br />jack</td>
+<td>gang<sup id="cite_ref-Carnaby_16-8" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup><br />sneak<sup id="cite_ref-Carnaby_16-9" class="reference"><a href="#cite_note-Carnaby-16">&#91;16&#93;</a></sup></td>
+<td>musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Whale" title="Whale">Whale</a></td>
+<td>calf<sup id="cite_ref-calf_36-2" class="reference"><a href="#cite_note-calf-36">&#91;33&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-cow_37-2" class="reference"><a href="#cite_note-cow-37">&#91;34&#93;</a></sup></td>
+<td>bull</td>
+<td>gam<sup id="cite_ref-yourdict_22-12" class="reference"><a href="#cite_note-yourdict-22">&#91;21&#93;</a></sup><br />pod<sup id="cite_ref-sdzoo6_81-4" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><sup id="cite_ref-usgs8_82-7" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup><br />school</td>
+<td>cetacean<br />cetaceous</td>
+<td><a href="/wiki/Blubber" title="Blubber">blubber</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wildebeest" title="Wildebeest">Wildebeest</a></td>
+<td>calf<sup id="cite_ref-calf_36-3" class="reference"><a href="#cite_note-calf-36">&#91;33&#93;</a></sup></td>
+<td>cow<sup id="cite_ref-cow_37-3" class="reference"><a href="#cite_note-cow-37">&#91;34&#93;</a></sup></td>
+<td>bull</td>
+<td>confusion</td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wolf" title="Wolf">Wolf</a></td>
+<td>cub<br />pup<sup id="cite_ref-pup_5-4" class="reference"><a href="#cite_note-pup-5">&#91;5&#93;</a></sup><br />puppy<br />whelp</td>
+<td>bitch<br />she-wolf</td>
+<td>dog</td>
+<td>pack<sup id="cite_ref-sdzoo6_81-5" class="reference"><a href="#cite_note-sdzoo6-81">&#91;72&#93;</a></sup><sup id="cite_ref-usgs8_82-8" class="reference"><a href="#cite_note-usgs8-82">&#91;73&#93;</a></sup></td>
+<td>canine<br />lupine</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wolverine" title="Wolverine">Wolverine</a></td>
+<td>kit<br />whelp</td>
+<td>angeline</td>
+<td>wolverine</td>
+<td>pack</td>
+<td>musteline</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Wombat" title="Wombat">Wombat</a></td>
+<td>joey</td>
+<td>jill</td>
+<td>jack</td>
+<td>wisdom<sup id="cite_ref-117" class="reference"><a href="#cite_note-117">&#91;108&#93;</a></sup></td>
+<td style="background: #EEE; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="7"><span class="anchor" id="Z"></span><b>Z</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Zebra" title="Zebra">Zebra</a></td>
+<td><a href="/wiki/Colt_(horse)" title="Colt (horse)">colt</a> (male)<br /><a href="/wiki/Filly" title="Filly">filly</a> (female)<br /><a href="/wiki/Foal" title="Foal">foal</a></td>
+<td>mare</td>
+<td>stallion</td>
+<td>cohort<sup id="cite_ref-askoxford-z_118-0" class="reference"><a href="#cite_note-askoxford-z-118">&#91;109&#93;</a></sup><br />dazzle<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">&#91;110&#93;</a></sup><br /><a href="/wiki/Herd" title="Herd">herd</a><sup id="cite_ref-sdzoo_11-82" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-z_118-1" class="reference"><a href="#cite_note-askoxford-z-118">&#91;109&#93;</a></sup><br />zeal<sup id="cite_ref-sdzoo_11-83" class="reference"><a href="#cite_note-sdzoo-11">&#91;11&#93;</a></sup><sup id="cite_ref-askoxford-z_118-2" class="reference"><a href="#cite_note-askoxford-z-118">&#91;109&#93;</a></sup></td>
+<td>hippotigrine<br />zebrine</td>
+<td>
+</td></tr>
